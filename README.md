@@ -1,20 +1,23 @@
-# performance-blueprint-project
+# artillery-blueprint-project
 
 Blueprint performance project
 
-[![](https://img.shields.io/github/license/ik-performance/performance-blueprint-project)](https://github.com/ik-performance/performance-blueprint-project)
-![](https://img.shields.io/github/v/tag/ik-performance/performance-blueprint-project)
-![](https://img.shields.io/issues/github/ik-performance/performance-blueprint-project)
-![](https://img.shields.io/github/issues/ik-performance/performance-blueprint-project)
-![](https://img.shields.io/github/issues-closed/ik-performance/performance-blueprint-project)
-[![](https://img.shields.io/github/languages/code-size/ik-performance/performance-blueprint-project)](https://github.com/ik-performance/performance-blueprint-project)
-[![](https://img.shields.io/github/repo-size/ik-performance/performance-blueprint-project)](https://github.com/ik-performance/performance-blueprint-project)
-![](https://img.shields.io/github/languages/top/ik-performance/performance-blueprint-project?color=green&logo=terraform&logoColor=blue)
-![](https://img.shields.io/github/commit-activity/m/ik-performance/performance-blueprint-project)
-![](https://img.shields.io/github/contributors/ik-performance/performance-blueprint-project)
-![](https://img.shields.io/github/last-commit/ik-performance/performance-blueprint-project)
+- [Docs](https://artillery.io/docs/getting-started/)
+- [GitHub](https://github.com/artilleryio/artillery)
 
-- [performance-blueprint-project](#performance-blueprint-project)
+[![](https://img.shields.io/github/license/ik-performance/artillery-blueprint)](https://github.com/ik-performance/artillery-blueprint)
+![](https://img.shields.io/github/v/tag/ik-performance/artillery-blueprint)
+![](https://img.shields.io/issues/github/ik-performance/artillery-blueprint)
+![](https://img.shields.io/github/issues/ik-performance/artillery-blueprint)
+![](https://img.shields.io/github/issues-closed/ik-performance/artillery-blueprint)
+[![](https://img.shields.io/github/languages/code-size/ik-performance/artillery-blueprint)](https://github.com/ik-performance/artillery-blueprint)
+[![](https://img.shields.io/github/repo-size/ik-performance/artillery-blueprint)](https://github.com/ik-performance/artillery-blueprint)
+![](https://img.shields.io/github/languages/top/ik-performance/artillery-blueprint?color=green&logo=terraform&logoColor=blue)
+![](https://img.shields.io/github/commit-activity/m/ik-performance/artillery-blueprint)
+![](https://img.shields.io/github/contributors/ik-performance/artillery-blueprint)
+![](https://img.shields.io/github/last-commit/ik-performance/artillery-blueprint)
+
+- [artillery-blueprint](#artillery-blueprint)
   * [Running locally](#running-locally)
     + [DSL](#dsl)
     + [Scenario's](#scenario-s)
@@ -58,11 +61,11 @@ For all awailable simulations `make choose/simulation`
 
 <!-- START makefile-doc -->
 ```
-$ make help 
+$ make help
 change                         Update changelog
 choose/simulation              Show all simulations
 init                           Commit hooks setup
-validate                       Validate with pre-commit hooks 
+validate                       Validate with pre-commit hooks
 ```
 <!-- END makefile-doc -->
 
